@@ -1,0 +1,5 @@
+ambiente,algoritmo,episódios até a meta,reward médio 500 primeiros,reward médio 500 últimos,meta (reward ótimo)
+determinístico,Q-learning,768 ± 19,-162.97439999999997,7.3336,7.930000000000001
+determinístico,SARSA,871 ± 69,-172.0932,6.9776,7.930000000000001
+chuvoso,Q-learning,2076 ± 526,-237.1956,-6.6556,-3.962461315646827
+chuvoso,SARSA,1928 ± 388,-240.4572,-7.733199999999999,-3.962461315646827

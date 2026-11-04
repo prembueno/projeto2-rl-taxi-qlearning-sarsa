@@ -1,0 +1,9 @@
+agente,timesteps médio,desvio padrão,mediana,sucesso (%),reward médio,trunc. 200 passos (%)
+Q-learning  | treino det.  | exec. det.,13.206,2.654365331038899,13.5,100.0,7.794,0.0
+SARSA       | treino det.  | exec. det.,13.566,2.8244644091219833,14.0,100.0,7.434,0.0
+Ótimo       |              | exec. det.,13.158,2.6651908909063042,13.0,100.0,7.842,0.0
+Q-learning  | treino det.  | exec. chuvoso,37.41,44.414132100723535,25.0,93.4,-17.796,6.6000000000000005
+SARSA       | treino det.  | exec. chuvoso,32.378,30.571757894526172,26.0,97.2,-11.966,2.8000000000000003
+Q-learning  | treino chuvoso | exec. chuvoso,26.678,10.517202055592367,26.0,100.0,-5.678,0.0
+SARSA       | treino chuvoso | exec. chuvoso,27.158,10.630100379024475,26.0,100.0,-6.158,0.0
+Ótimo       |              | exec. chuvoso,25.112,9.692437396515427,24.0,100.0,-4.112,0.0
